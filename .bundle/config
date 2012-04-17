@@ -1,0 +1,3 @@
+---
+BUNDLE_PATH: mulit_json
+BUNDLE_DISABLE_SHARED_GEMS: '1'

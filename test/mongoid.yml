@@ -1,0 +1,10 @@
+test:
+  host: localhost
+  database: mongoid_models_testing
+  logger: false
+
+production:
+  host: localhost
+  database: mongoid_models_development
+  logger: true
+
