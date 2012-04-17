@@ -1,0 +1,3 @@
+h2. Purpose
+
+This repository is part of a blog post *"Walk-through, How to Build a Modular Web Application with Ruby(Visit Dave Vallance Info: Walk-through, How to Build a Modular Web Application)":http://davevallance.info/blog/walkthrough-how-to-build-a-modular-web-application-intro/*
