@@ -3,7 +3,7 @@ test:
   database: mongoid_models_testing
   logger: false
 
-production:
+development:
   host: localhost
   database: mongoid_models_development
   logger: true
